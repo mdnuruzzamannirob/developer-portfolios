@@ -546,6 +546,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## F
 
+- [Fabian Letsch](https://fabianletsch.de) [Full Stack Developer]
 - [Fabian Lugo](https://lugotech.dev) [Full Stack Developer]
 - [Fabien Laurence](https://fabienlaurence.com) [Full Stack Developer | TypeScript / Python / C#]
 - [Fabio Junior Raminhuk](https://fabra.dev)
