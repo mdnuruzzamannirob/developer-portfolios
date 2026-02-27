@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1517
+## Current Portfolio Count: 1518
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -1538,6 +1538,7 @@ This repo can serve as inspiration for your portfolio!
 - [Viren Hirpara](https://www.virenhirpara.com) [Python Developer | Digital Forensic Expert]
 - [Vishal Bhangare](https://vishalbhangare.netlify.app)
 - [Vishal Rai](https://vishalrai.netlify.app)
+- [Vishal Kumar Singh](https://vishalvoid.com) [Full Stack Developer]
 - [Vishal Singh](https://vi5hal.vercel.app) [Full Stack Developer (Mern)]
 - [Vishnu Sharma](https://vs-code-cloud.github.io)
 - [Vishwanath](https://frozenhearth.vercel.app)
