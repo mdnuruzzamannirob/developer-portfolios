@@ -206,7 +206,6 @@ This repo can serve as inspiration for your portfolio!
 - [Anish Biswas](https://anish7.me) [Full Stack Dev]
 - [Ankit Dey](https://dub.sh/ankitdey)
 - [Ankit Mohanty](https://ankitmohanty.vercel.app) [Software Developer]
-  Developer]
 - [Ankush Minda](http://ankushminda.com)
 - [Anshul Chauhan](https://anshulchauhan.dev) [Full Stack Developer | Ios-Style Portfolio]
 - [Anshul Dev](https://github.com/AnshulGora/portfolio_template_v1) [Software Developer | Web Solutions]
