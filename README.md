@@ -1373,6 +1373,7 @@ This repo can serve as inspiration for your portfolio!
 - [Shivram Sambhus](https://shivi.io)
 - [Shomi Khan](https://shomi-khan.github.io)
 - [Shrey Asthana](https://shrey-asthana-portfolio.netlify.app)
+- [Shreya Saraswat](https://shreya-saraswat-portfolio.vercel.app) [Frontend Developer | ReactJs]
 - [Shreyas Raviprakash](https://portfolio-vfee.vercel.app) [Full Stack Developer]
 - [Shubham Chaturvedi](https://shu8ham.netlify.app)
 - [Shubham Dey](https://shubhamdey01.github.io) [Student | AI/ML | Data Science]
