@@ -748,12 +748,12 @@ This repo can serve as inspiration for your portfolio!
 - [Johnny Gérard](https://www.jgerard.dev) [Frontend Engineer]
 - [Jonas Werner](https://jonaswerner.com)
 - [Jonathan Peters](https://github.com/QMS85/MyPortfolio) [Front End Developer]
+- [Joop Munguia](https://my-portfolio1-nine-sage.vercel.app/) [Full Stack Developer | cybersecurity Enthusiast]
 - [Jorge Cortés](https://jorgecortes.dev) [Full Stack Developer]
 - [Joshua Chinwendu](http://joshualine.github.io)
 - [Joshua Izuchukwu](https://joshuaizu.vercel.app)
 - [Joséphin Sylvère](https://josephin-sylvere.vercel.app) [Backend Developer]
 - [Joy Biswas](https://joybtw.com) [Backend Developer]
-- [Joop Munguia](https://my-portfolio1-nine-sage.vercel.app/) [Full Stack Developer | cybersecurity Enthusiast]
 - [Juan Cisneros](https://portfoliojuanfranciscocisneros.web.app)
 - [Juan Diaz](https://jpdiaz.dev)
 - [Juan Pablo Jimenez](https://juanpablojimenez.dev) [Front-End Developer]
