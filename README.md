@@ -1540,6 +1540,7 @@ This repo can serve as inspiration for your portfolio!
 - [Vinit Shahdeo](https://vinitshahdeo.com)
 - [Viren Hirpara](https://www.virenhirpara.com) [Python Developer | Digital Forensic Expert]
 - [Vishal Bhangare](https://vishalbhangare.netlify.app)
+- [Vishal Bhosle](https://vishalb.dev) [Expert Full Stack Software Developer]
 - [Vishal Rai](https://vishalrai.netlify.app)
 - [Vishal Kumar Singh](https://vishalvoid.com) [Full Stack Developer]
 - [Vishal Singh](https://vi5hal.vercel.app) [Full Stack Developer (Mern)]
